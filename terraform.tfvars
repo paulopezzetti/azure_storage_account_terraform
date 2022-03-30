@@ -1,0 +1,6 @@
+resource_group_name    = "RESOURCE_GROUP"
+location               = "LOCATION"
+storage_account_name   = "STORAGE_ACCOUNT_NAME"
+allow_blob_public_access = "false"
+account_replication_type = "ACCOUNT_REPLICATION_TYPE"
+account_tier            = "ACCOUNT_TIER"
